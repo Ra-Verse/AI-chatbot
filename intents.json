@@ -12,123 +12,123 @@
         },
         {
             "tag": "personal_info",
-            "patterns": ["Tell me about Raaif Yousuf", "Who is Raaif Yousuf?", "What is your contact information?", "Where are you located?"],
-            "responses": ["Raaif Yousuf is a Computer Science student located in Dallas, TX. He is pursuing a Bachelor of Science in Computer Science at The University of Texas at Dallas with a perfect GPA of 4.00. You can reach him at raaifirfanyousuf@gmail.com"]
+            "patterns": ["Tell me about the candidate", "Who is the candidate?", "What is the contact information?", "Where are they located?"],
+            "responses": ["The candidate is a Computer Science student located in a major city. They are pursuing a Bachelor of Science in Computer Science at a university with a strong academic record. You can reach them at generic.email@example.com."]
         },
         {
             "tag": "contact_details",
-            "patterns": ["What is your email?", "What is your phone number?", "How can I contact you?"],
-            "responses": ["You can reach Raaif at raaifirfanyousuf@gmail.com or 000-000-0629."]
+            "patterns": ["What is their email?", "What is their phone number?", "How can I contact them?"],
+            "responses": ["You can reach the candidate at generic.email@example.com or 000-000-0000."]
         },
         {
             "tag": "web_presence",
-            "patterns": ["What is your GitHub link?", "What is your portfolio link?", "Where can I find your online presence?"],
-            "responses": ["His GitHub is at https://github.com/Ra-Verse and his portfolio is at https://raaif.netlify.app."]
+            "patterns": ["What is their GitHub link?", "What is their portfolio link?", "Where can I find their online presence?"],
+            "responses": ["Their GitHub is at https://github.com/generic-user and their portfolio is at https://generic-portfolio.example.com."]
         },
         {
             "tag": "education_overview",
-            "patterns": ["What is your education?", "Where did you study?", "What degree are you pursuing?"],
-            "responses": ["Raaif is pursuing a Bachelor of Science in Computer Science at The University of Texas at Dallas. He has a perfect GPA of 4.00 and is expected to graduate in May 2027."]
+            "patterns": ["What is their education?", "Where did they study?", "What degree are they pursuing?"],
+            "responses": ["The candidate is pursuing a Bachelor of Science in Computer Science at a university. They have a strong GPA and are expected to graduate in a future year."]
         },
         {
             "tag": "education_details",
-            "patterns": ["What is your GPA?", "When will you graduate?", "Tell me more about your studies."],
-            "responses": ["He has a GPA of 4.00 and is expected to graduate in May 2027. He is currently studying at The University of Texas at Dallas."]
+            "patterns": ["What is their GPA?", "When will they graduate?", "Tell me more about their studies."],
+            "responses": ["They have a strong GPA and are expected to graduate in a future year. They are currently studying at a university."]
         },
         {
             "tag": "technical_skills_overview",
-            "patterns": ["What are your technical skills?", "What programming languages do you know?", "What technologies are you proficient in?"],
-            "responses": ["Raaif has skills in various programming languages, databases, frameworks, and spoken languages. He is proficient in Java, Python, C++, HTML, CSS, VB.NET, Kotlin, and MIPS (Assembly Lang.). He also has experience with SQL, React.js, Tkinter, Bootstrap, scikit-learn, and TensorFlow."]
+            "patterns": ["What are their technical skills?", "What programming languages do they know?", "What technologies are they proficient in?"],
+            "responses": ["The candidate has skills in various programming languages, databases, frameworks, and spoken languages. They are proficient in several programming languages and have experience with databases and frameworks."]
         },
         {
             "tag": "programming_languages",
-            "patterns": ["What programming languages do you know specifically?", "List your programming languages."],
-            "responses": ["He knows Java, Python, C++, HTML, CSS, VB.NET, Kotlin, and MIPS (Assembly Lang.)."]
+            "patterns": ["What programming languages do they know specifically?", "List their programming languages."],
+            "responses": ["They know several programming languages including Java, Python, C++, and others."]
         },
         {
             "tag": "databases_frameworks",
-            "patterns": ["What databases and frameworks do you use?", "Tell me about your database and framework experience."],
-            "responses": ["Raaif has experience with SQL, React.js, Tkinter, Bootstrap, scikit-learn, and TensorFlow."]
+            "patterns": ["What databases and frameworks do they use?", "Tell me about their database and framework experience."],
+            "responses": ["The candidate has experience with SQL, React.js, and other frameworks."]
         },
         {
             "tag": "spoken_languages",
-            "patterns": ["What spoken languages do you know?", "List your spoken languages."],
-            "responses": ["He speaks Urdu, English, Arabic, Hindi, and Punjabi."]
+            "patterns": ["What spoken languages do they know?", "List their spoken languages."],
+            "responses": ["They speak multiple languages."]
         },
         {
             "tag": "research_overview",
-            "patterns": ["What is your research experience?", "Tell me about your research."],
-            "responses": ["Raaif was a Lead Researcher at The University of Texas at Dallas, focusing on Engineering Identity and Engineering Education. He oversaw 30 researchers, optimized an ANN algorithm, and collaborated with a startup partner."]
+            "patterns": ["What is their research experience?", "Tell me about their research."],
+            "responses": ["The candidate has research experience at a university, focusing on a specific research area. They managed a team and optimized an algorithm."]
         },
         {
             "tag": "research_details",
-            "patterns": ["What did you do as a Lead Researcher?", "Tell me more about your research responsibilities."],
-            "responses": ["He oversaw 30 researchers, managing a structured hierarchy of 6 team leaders, each leading a team of 5. He reduced manual effort, saving the team 500+ hours and accelerating research findings. He also modified and optimized an artificial neural network (ANN) algorithm to fit the research requirements and collaborated with a startup partner, integrating research insights into real-world applications."]
+            "patterns": ["What did they do as a Lead Researcher?", "Tell me more about their research responsibilities."],
+            "responses": ["They managed a team, optimized an algorithm, and collaborated with a partner."]
         },
         {
             "tag": "work_overview",
-            "patterns": ["What is your work experience?", "Where have you worked?"],
-            "responses": ["Raaif has experience as an intern, consultant, office clerk, and COO. He has worked at Cohort Science, Abako Technologies, Imran K Patel MD PA, and Nixor Engineering Solutions."]
+            "patterns": ["What is their work experience?", "Where have they worked?"],
+            "responses": ["The candidate has experience as an intern, consultant, and in other roles at various companies."]
         },
         {
-            "tag": "work_cohort_science",
-            "patterns": ["What did you do at Cohort Science?", "Tell me about your internship at Cohort Science."],
-            "responses": ["At Cohort Science, he is leading a backend team of 12, currently focused on scraping large datasets for data collection, analysis, and processing. He is also leading the backend team in developing a Software-as-a-Service (SaaS) solution to tailor research insights for academic institutions, providing valuable insights for universities and community colleges."]
+            "tag": "work_company_one",
+            "patterns": ["What did they do at Company One?", "Tell me about their internship at Company One."],
+            "responses": ["At Company One, they led a team and focused on data collection and analysis."]
         },
         {
-            "tag": "work_abako_technologies",
-            "patterns": ["What did you do at Abako Technologies?", "Tell me about your consulting role at Abako Technologies."],
-            "responses": ["At Abako Technologies, he provided strategic guidance for a citywide math contest, advising on structure, fairness, and participant engagement. He also created and curated competition questions, ensuring balanced difficulty, topic coverage, and fairness. Additionally, he advised on competition software development, applying math and programming expertise to streamline functionality."]
+            "tag": "work_company_two",
+            "patterns": ["What did they do at Company Two?", "Tell me about their consulting role at Company Two."],
+            "responses": ["At Company Two, they provided strategic guidance and created competition questions."]
         },
         {
-            "tag": "work_imran_patel",
-            "patterns": ["What did you do at Imran K Patel MD PA?", "Tell me about your work at the medical office."],
-            "responses": ["At Imran K Patel MD PA, he managed phone calls, scheduled appointments, and organized patient charts for efficient office operations. He also managed data entry and record-keeping for patient information, lab reports, and medical records."]
+            "tag": "work_company_three",
+            "patterns": ["What did they do at Company Three?", "Tell me about their work at the office."],
+            "responses": ["At Company Three, they managed phone calls and patient records."]
         },
         {
-            "tag": "work_nixor_engineering",
-            "patterns": ["What did you do at Nixor Engineering Solutions?", "Tell me about your role as COO."],
-            "responses": ["At Nixor Engineering Solutions, he led multiple projects, fundraisers, and community initiatives, including a 5-day Python crash course with 70+ participants. He upgraded the school attendance system with RFID, boosting scan accuracy to 100% and reducing scan time by 70%. He also coordinated events such as Cloud 9 and Chotay Sciencdaan in collaboration with NGOs like Adopt An Orphanage and Taleem Sab Kay Liye, providing STEM exposure to underprivileged and orphaned children."]
+            "tag": "work_company_four",
+            "patterns": ["What did they do at Company Four?", "Tell me about their role as leader."],
+            "responses": ["At Company Four, they led projects and initiatives."]
         },
         {
             "tag": "publications_overview",
-            "patterns": ["What publications do you have?", "Tell me about your published work."],
-            "responses": ["Raaif has one publication in progress: 'Using an Artificial Neural Network (ANN) to Predict Engineering Identity Shifts in STEM Students'."]
+            "patterns": ["What publications do they have?", "Tell me about their published work."],
+            "responses": ["The candidate has a publication in progress."]
         },
         {
             "tag": "projects_overview",
-            "patterns": ["What personal projects have you done?", "Tell me about your projects."],
-            "responses": ["Raaif has worked on various projects, including AI applications, web development, and game development. Some of his notable projects include AI Handwritten Character Recognition, AI Song Generation, a Voice-Controlled Personal AI Assistant, Mastermind Game, a Movie Web Application, a Natural Language Chatbot, and a Sudoku Solver. More details about his projects can be found on his GitHub and portfolio."]
+            "patterns": ["What personal projects have they done?", "Tell me about their projects."],
+            "responses": ["The candidate has worked on various projects, including AI applications, web development, and game development."]
         },
         {
             "tag": "projects_details",
-            "patterns": ["List your projects.", "Tell me more about your personal projects."],
-            "responses": ["He has worked on AI Handwritten Character Recognition (Tensorflow), AI Song Generation (Recurrent Neural Networks), Voice-Controlled Personal AI Assistant (Speech Recognition), Mastermind Game (Tkinter), Movie Web Application (React.js, API), Natural Language Chatbot (NLTK), and Sudoku Solver (Back Tracking). More projects are available on his GitHub and portfolio."]
+            "patterns": ["List their projects.", "Tell me more about their personal projects."],
+            "responses": ["They have worked on AI projects, web applications, and other projects."]
         },
         {
             "tag": "organizations_overview",
-            "patterns": ["What organizations are you a member of?", "Tell me about your organizational involvement."],
-            "responses": ["Raaif is a member of Nebula Labs, Comet Cupboard, Muslim Student Association, and Phi Theta Kappa Honor Society. He also volunteered at Indus Hospital."]
+            "patterns": ["What organizations are they a member of?", "Tell me about their organizational involvement."],
+            "responses": ["The candidate is a member of several organizations."]
         },
         {
             "tag": "honors_awards_overview",
-            "patterns": ["What honors and awards have you received?", "Tell me about your achievements."],
-            "responses": ["Raaif has been on the Dean's List and received the Student of the Year award. He has been on the Dean's List at The University of Texas at Dallas (Fall 2024) and Tarrant County College (Fall 2023, Spring 2024). He was also Student of the Year - Behavioral & Social Sciences at Tarrant County College (April 2024)."]
+            "patterns": ["What honors and awards have they received?", "Tell me about their achievements."],
+            "responses": ["The candidate has received academic honors and awards."]
         },
         {
             "tag": "honors_awards_details",
-            "patterns": ["List your honors and awards.", "Tell me more about your awards."],
-            "responses": ["He has been on the Dean's List at The University of Texas at Dallas (Fall 2024) and Tarrant County College (Fall 2023, Spring 2024). He was also Student of the Year - Behavioral & Social Sciences at Tarrant County College (April 2024)."]
+            "patterns": ["List their honors and awards.", "Tell me more about their awards."],
+            "responses": ["They have been on the Dean's List and received other awards."]
         },
         {
             "tag": "resume_summary",
-            "patterns": ["Can you summarize your resume?", "Give me a brief overview of your resume."],
-            "responses": ["Raaif Yousuf is a Computer Science student at The University of Texas at Dallas with a 4.00 GPA. He has extensive experience in research, internships, and leadership roles. His technical skills include Java, Python, C++, SQL, React.js, and TensorFlow. He has worked at Cohort Science, Abako Technologies, and Nixor Engineering Solutions, and has published research on Engineering Identity. He is also involved in various organizations and has received multiple honors and awards."]
+            "patterns": ["Can you summarize their resume?", "Give me a brief overview of their resume."],
+            "responses": ["The candidate is a Computer Science student with a strong GPA. They have experience in research, internships, and leadership roles. Their technical skills include various programming languages and frameworks. They have worked at multiple companies and have published research."]
         },
         {
             "tag": "resume_full",
-            "patterns": ["Can you provide a full overview of your resume?", "Tell me everything about your resume."],
-            "responses": ["Raaif Yousuf is a Computer Science student at The University of Texas at Dallas, expected to graduate in May 2027 with a 4.00 GPA. He has technical skills in Java, Python, C++, SQL, React.js, and TensorFlow. His research experience includes leading a team of 30 researchers at UT Dallas, where he optimized an ANN algorithm and collaborated with a startup. He has interned at Cohort Science, consulted at Abako Technologies, worked as an office clerk at Imran K Patel MD PA, and served as COO at Nixor Engineering Solutions. He has published research on Engineering Identity and has worked on projects like AI Handwritten Character Recognition and a Voice-Controlled Personal AI Assistant. He is a member of Nebula Labs, Comet Cupboard, and the Muslim Student Association, and has received honors like the Dean's List and Student of the Year."]
+            "patterns": ["Can you provide a full overview of their resume?", "Tell me everything about their resume."],
+            "responses": ["The candidate is a Computer Science student expected to graduate in a future year. They have technical skills, research experience, and internship experience. They are involved in organizations and have received honors."]
         }
     ]
 }
